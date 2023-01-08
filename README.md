@@ -41,7 +41,7 @@ $ npm i --legacy-peer-deps
 ## Client-side usage(PORT: 3000)
 
 ```terminal
-$ cd frontend       
+$ cd frontend   
 $ npm run start  
 ```
 
@@ -57,32 +57,6 @@ You need to create a .env file in the root directory and add all the values of t
 // In the root directory
 $ npm run dev
 ```
-
-# Screenshots of this project
-
-User sign in or sign up:
-
-![1673179335813](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Bhargab%20Nath/Desktop/Nodejs%20Programs/FrontPage_Assignment/image/README/1673179335813.png)
-
-After signing in user lands on Home Page:
-
-![1673179296887](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Bhargab%20Nath/Desktop/Nodejs%20Programs/FrontPage_Assignment/image/README/1673179296887.png)
-
-One-to-One chat:
-
-![1673179655451](image/README/1673179655451.png)
-
-Group chat(as Admin)
-
-![1673179698330](image/README/1673179698330.png)
-
-Group Chat(as added member in the group, if you can not send message):
-
-![1673180361111](image/README/1673180361111.png)
-
-Create Group Chat Modal:
-
-![1673179915542](image/README/1673179915542.png)
 
 ## Author
 
